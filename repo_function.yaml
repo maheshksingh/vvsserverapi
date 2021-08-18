@@ -1,0 +1,27 @@
+_10_trad_cv:
+  F00001:
+    "1.02":
+      name: crankshaft angle 1.02
+      scriptname: crankshaft
+      path: repo_functions/crankshaft.py
+      function: F00001_Calc_Angle_Crankshaft
+    "1.1":
+      name: crankshaft angle 1.1
+      scriptname: crankshaft
+      path: repo_functions/crankshaft.py
+      function: F00001_Calc_Angle_Crankshaft
+  F00002:
+    "1.02":
+      name: camshaft angle
+      version: 1.02
+      scriptname: camshaft
+      path: repo_functions/camshaft.py
+      function: blablbal
+  F12345:
+    "1.02":
+      name: F123456_test
+      version: 1.02
+      scriptname: test
+      path: repo_functions/test.py
+      function: F123456_test
+
